@@ -1,4 +1,4 @@
-## Olá! Eu sou Gustavo Santos, Apaixonado por Tecnologia
+## Olá! Bem Vindo ao meu perfil, Me chamo Gustavo Santos, Qualquer dúvida, só perguntar
 <div align="center">
   <a href="https://github.com/gustavols">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavols&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
