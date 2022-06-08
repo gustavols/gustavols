@@ -26,6 +26,12 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavols&layout=compact&langs_count=7&theme=dracula"/>
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/gustavols.png">
 </div>
+   <br>
+   <br>
+  <div style="display: inline" align="center">
+      <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=gustavols" width="900"><p>
+   </div>
+   
 
  
 <div>
