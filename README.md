@@ -26,16 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavols&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    <br>
-   <br>
-  <div style="display: inline" align="center">
-      <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=gustavols" width="900"><p>
-   </div>
-   
-
- 
-<div>
-  
-   
+   <br> 
+<div>   
    ![Snake animation](https://github.com/gustavols/gustavols/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
