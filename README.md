@@ -26,9 +26,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavols&layout=compact&langs_count=7&theme=radical"/>
 </div>
    <br>
-   <br> 
+   <br>
+   
+   
    <div align="center">
    
    ![Snake animation](https://github.com/gustavols/gustavols/blob/output/github-contribution-grid-snake.svg)
 
    </div>
+   
+   ## Repository Structure
+
+| Repository  | Definition                                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| fatec-      | Projects developed at FATEC (Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal)             |
+| nlw-        | Projects developed at NLW ("Next Level Week", <a href="https://rocketseat.com.br/">rocketseat</a>'s event)    |
+| cl-         | Copies (clones) of web interfaces, applications, etc.                                                              |
