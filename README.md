@@ -39,6 +39,6 @@
 
 | Repository  | Definition                                                                                                    |
 | ----------- | ------------------------------------------------------------------------------------------------------------- |
-| fatec-      | Projects developed at FATEC (Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal)             |
+| fa-         | Projects developed at FATEC (Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal)             |
 | nlw-        | Projects developed at NLW ("Next Level Week", <a href="https://rocketseat.com.br/">rocketseat</a>'s event)    |
 | cl-         | Copies (clones) of web interfaces, applications, etc.                                                              |
